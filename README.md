@@ -8,6 +8,9 @@ Restruants do not share information about their customers with others. Which cre
 This noshow prevention API will allow reservation system to use our APIs to check if users have made reservations in the past and if they showed up on time.
 Restrant owners can make the decision to allow or disallow their booking based on history.
 
+### Implementaions
+Initially, I only thought restrants were the only customers of this. However, anywhere there are reservation that occur, such as hospitals, event places (ex rock climbing, bowling), can use this tool to have an accurate expected time of arrival based on past experiences.
+
 ## API
 
 ### create_rsvp
